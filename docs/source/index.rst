@@ -102,7 +102,7 @@ AT1G01110	2.709783491	1.425313279		-0.93
 
 
 **Plot for LOGFC ON GENE EXPRESSION**
-![new](https://user-images.githubusercontent.com/37251906/39665706-bd9a413e-50ca-11e8-93d8-db8e2e9f74ec.jpg)
+![new](https://user-images.githubusercontent.com/37251906/39694016-70f738e2-5218-11e8-85db-ec9a63bc5b2d.jpg)
 
 However if the input format isn’t correct the framework is designed to bring an error message that will inform the user that the input placed is invalid and thus also include a button that will allow the user to go back and either fix the particular error or rewrite the input all together. Diagram below show a sample interface.  
 
